@@ -19,7 +19,6 @@ DOMAIN-SUFFIX,oaistatic.com
 DOMAIN-SUFFIX,oaiusercontent.com
 DOMAIN-SUFFIX,openai.com
 DOMAIN-SUFFIX,openaiapi-site.azureedge.net
-DOMAIN-SUFFIX,sentry.io
 DOMAIN-SUFFIX,stripe.com
 DOMAIN-SUFFIX,bard.google.com
 DOMAIN-SUFFIX,gemini.google.com
@@ -43,3 +42,4 @@ DOMAIN-SUFFIX,googleapis.com
 DOMAIN-SUFFIX,googleapis.cn
 DOMAIN-SUFFIX,gstatic.com
 DOMAIN-SUFFIX,signalr.net
+
